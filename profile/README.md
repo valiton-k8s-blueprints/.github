@@ -10,7 +10,7 @@ providers. This setup includes the provisioning of commonly used Kuberenetes add
 ## Principles
 
 Each blueprint sets up cloud infrastructure needed for the cluster using terraform or opentofu. Then 
-a Kubernetes cluster is deployed and the (GitOps Bridge pattern)[https://github.com/gitops-bridge-dev] is used
+a Kubernetes cluster is deployed and the [GitOps Bridge pattern](https://github.com/gitops-bridge-dev) is used
 to deploy the addons
 
 ## Tools
