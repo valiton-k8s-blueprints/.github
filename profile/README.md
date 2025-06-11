@@ -67,4 +67,5 @@ when you destroy your infrastructure (mainly useful during development and testi
 
 The examples repository shows how to use the modules in an actual terraform configuration.
 You should clone the repository as a starting point for your own configuration. Using it directly 
-is only recommended for testing the blueprint.
+is only recommended for testing the blueprint. We also include sample workloads that can be used for 
+testing.
